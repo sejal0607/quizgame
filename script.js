@@ -28,7 +28,7 @@ const quizdata=[
         correct:"b",
     },
     {
-        question : "5. What city hosted the 2002 Olympic Games? ",
+        question : "5. What city hosted the 2000 Olympic Games? ",
         a: "Tokyo",
         b: "Beijing",
         c: "Sydney",
